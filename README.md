@@ -2,6 +2,13 @@
 
 Docker image for DNS, SSL tests
 
+
+![GitHub License](https://img.shields.io/github/license/aleksandrgluhov/netutils?style=flat-square&cacheSeconds=3600)
+[![Docker Pulls](https://img.shields.io/docker/pulls/agluhov/netutils?style=flat-square&cacheSeconds=3600)](https://hub.docker.com/r/agluhov/netutils/tags)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agluhov/netutils/latest?arch=amd64&style=flat-square&cacheSeconds=3600&label=latest)](https://hub.docker.com/r/agluhov/netutils/tags)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agluhov/netutils/latest-java?arch=amd64&style=flat-square&cacheSeconds=3600&label=latest-java)](https://hub.docker.com/r/agluhov/netutils/tags)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agluhov/netutils/latest-python?arch=amd64&style=flat-square&cacheSeconds=3600&label=latest-python)](https://hub.docker.com/r/agluhov/netutils/tags)
+
 # About
 
 This repository has 3 versions of netutils image:
