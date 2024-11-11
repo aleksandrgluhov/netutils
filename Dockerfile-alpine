@@ -1,0 +1,3 @@
+ARG alpine_version="3.20"
+FROM alpine:${alpine_version}
+RUN apk add --update --no-cache busybox-extras bind-tools socat curl netcat-openbsd openssl
